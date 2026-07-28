@@ -1,0 +1,6 @@
+interface:
+  display_name: "Obsidian Conversation Curator"
+  short_description: "Deposit conversations into a personal knowledge base"
+  default_prompt: "Use $obsidian-conversation-curator to deposit this conversation into my Obsidian personal knowledge base. Use review mode unless I explicitly request direct writing without preview or confirmation."
+policy:
+  allow_implicit_invocation: true
